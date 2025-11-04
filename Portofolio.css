@@ -1,0 +1,15 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color:bisque;
+
+        }
+
+        h1 {
+            color:bisque;
+            border-bottom: 2px solid navy; 
+        }
+        h2 {
+            background-color: #ffffff;
+            padding: 20px;
+        }
